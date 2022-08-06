@@ -37,3 +37,13 @@ changes to your browser on save. To prevent a few common issues, see
 Opening the app in your browser starts a
 [ClojureScript browser REPL](https://clojurescript.org/reference/repl#using-the-browser-as-an-evaluation-environment),
 to which you may now connect.
+
+## Screenshots
+
+Визуализация актора № 3:
+
+![alt text](https://user-images.githubusercontent.com/10473034/183267975-0946a98b-18f3-41d3-abfb-94fc84a6e38a.png "Actor #3")
+
+Визуализация всех 1000 акторов:
+
+![alt text](https://user-images.githubusercontent.com/10473034/183267980-64250dd4-c1c9-4375-b8cc-a89a2b513172.png "First 1000 actors")
